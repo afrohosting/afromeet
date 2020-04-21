@@ -599,7 +599,7 @@
             "lockRoom": "Toggle meeting password",
             "moreActions": "Toggle more actions menu",
             "moreActionsMenu": "More actions menu",
-            "moreOptions": "Show more options",
+            "moreOptions": "Ver más opciones",
             "mute": "Toggle mute audio",
             "muteEveryone": "Mute everyone",
             "pip": "Toggle Picture-in-Picture mode",
@@ -644,7 +644,7 @@
         "logout": "Logout",
         "lowerYourHand": "Lower your hand",
         "moreActions": "More actions",
-        "moreOptions": "More options",
+        "moreOptions": "Más opciones",
         "mute": "Mute / Unmute",
         "muteEveryone": "Mute everyone",
         "noAudioSignalTitle": "There is no input coming from your mic!",
@@ -776,10 +776,10 @@
         "title": "Secure, fully featured, and completely free video conferencing"
     },
     "lonelyMeetingExperience": {
-        "button": "Invite others",
-        "youAreAlone": "You are the only one in the meeting"
+        "button": "Invitar a alguien",
+        "youAreAlone": "No hay nadie más en la reunión"
     },
     "helpView": {
-        "header": "Help centre"
+        "header": "Centro de ayuda"
     }
 }

@@ -193,7 +193,7 @@
         "liveStreamingDisabledForGuestTooltip": "Los invitados no pueden iniciar transmisiones en vivo.",
         "liveStreamingDisabledTooltip": "Iniciar transmisión en vivo deshabilitado.",
         "lockMessage": "No se pudo bloquear la conferencia.",
-        "lockRoom": "Agregar reunion $t(lockRoomPasswordUppercase)",
+        "lockRoom": "Agregar $t(lockRoomPasswordUppercase)",
         "lockTitle": "El bloqueo falló",
         "logoutQuestion": "¿Estás seguro que deseas salir y detener la conferencia?",
         "logoutTitle": "Cerrar sesión",
