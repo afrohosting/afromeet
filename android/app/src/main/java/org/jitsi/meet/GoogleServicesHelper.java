@@ -1,4 +1,4 @@
-package org.jitsi.meet;
+package cl.afro.meet;
 
 import android.net.Uri;
 import android.util.Log;
