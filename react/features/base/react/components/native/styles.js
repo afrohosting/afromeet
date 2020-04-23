@@ -204,8 +204,8 @@ const SECTION_LIST_STYLES = {
 };
 
 export const TINTED_VIEW_DEFAULT = {
-    backgroundColor: ColorPalette.appBackground,
-    opacity: 0.8
+    backgroundColor: '#3E5161',
+    opacity: 0.9
 };
 
 /**

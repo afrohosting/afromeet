@@ -541,8 +541,8 @@
         "profileSection": "Perfil",
         "serverURL": "URL del servidor",
         "showAdvanced": "Mostrar configuración avanzada",
-        "startWithAudioMuted": "Inicio con audio en silencio",
-        "startWithVideoMuted": "Iniciar con el vídeo en silencio",
+        "startWithAudioMuted": "Iniciar con audio desactivado",
+        "startWithVideoMuted": "Iniciar con video desactivado",
         "version": "Versión"
     },
     "share": {
@@ -748,7 +748,7 @@
         "recentListEmpty": "Tu lista de recientes está actualmente vacía. Chatea con tu equipo y encontrarás todas tus reuniones aquí.",
         "reducedUIText": "¡Bienvenido(a) a {{app}}!",
         "roomname": "Introduce un nombre de sala",
-        "roomnameHint": "Escribe el nombre de la sala que quieres crear o a la que quieres unirte. Crea una sala con el nombre que quieras, solo tienes que compartirla con el resto para que puedan unirse.",
+        "roomnameHint": "Escribe el nombre de la sala que quieres crear, o a la que te quieres unir. Crea una sala con el nombre que quieras, solo tienes que compartirla con el resto para que se puedan unir.",
         "sendFeedback": "Enviar comentarios",
         "terms": "Términos",
         "title": "Videoconferencias seguras, llenas de funcionalidades y completamente gratuitas"
