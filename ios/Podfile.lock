@@ -416,7 +416,7 @@ DEPENDENCIES:
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - Amplitude-iOS
     - AppAuth
     - boost-for-react-native
@@ -523,13 +523,13 @@ SPEC CHECKSUMS:
   Amplitude-iOS: 2ad4d7270c99186236c1272a3a9425463b1ae1a7
   AppAuth: bce82c76043657c99d91e7882e8a9e1a93650cd4
   boost-for-react-native: 39c7adb57c4e60d6c5479dd8623128eb5b3f0f2c
-  BVLinearGradient: b0b70acf63ee888829b7c2ebbf6b50e227396e55
+  BVLinearGradient: e3aad03778a456d77928f594a649e96995f1c872
   CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
   Crashlytics: 540b7e5f5da5a042647227a5e3ac51d85eed06df
   DoubleConversion: 5805e889d232975c086db112ece9ed034df7a0b2
   Fabric: 706c8b8098fff96c33c0db69cbf81f9c551d0d74
-  FBLazyVector: cb37b5590a27600f0a889222d7c1f019625f4168
-  FBReactNativeSpec: 6fda0eee5b059ee8ea0f845f4060620ff96b5b55
+  FBLazyVector: 4a5251159a3ed05dc11cc8b74cf937869935814b
+  FBReactNativeSpec: 6fa602a20993212cc9877a81838578ffb0008bc9
   Firebase: 497158b816d0a86fc31babbd05546fcd7e6083ff
   FirebaseAnalytics: cf95d3aab897612783020fbd98401d5366f135ee
   FirebaseAnalyticsInterop: 3f86269c38ae41f47afeb43ebf32a001f58fcdae
@@ -551,38 +551,38 @@ SPEC CHECKSUMS:
   nanopb: 18003b5e52dab79db540fe93fe9579f399bd1ccd
   ObjectiveDropboxOfficial: a5afefc83f6467c42c45f2253f583f2ad1ffc701
   PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
-  RCTRequired: 81db8debffc2eb932841fa02dcf5a2e911af74c1
-  RCTTypeSafety: 39a7d8643abe2460aef0adeb9acbe9401b579fff
-  React: 89f2294058332cf7c4feee644e17d5024da1f531
-  React-Core: c55956aa434fae94816b665f99d51d50f48d5993
-  React-CoreModules: c70b9db4f48e31474bb022716fff41983b335ce2
-  React-cxxreact: 1dbe583c02d15d269f13451d203e645bb233fc96
-  React-jsi: f9126dd5818fbd8fbf869be9bbc1c0543973e1a1
-  React-jsiexecutor: 752f034d0f007d1141a1c52ba9ef3fd9668fbfa7
-  React-jsinspector: 044105eea064aec81adc5e4d777a8f6589e7d094
-  react-native-background-timer: bb7a98c8e97fc7c290de2d423dd09ddb73dcbcbb
-  react-native-calendar-events: fe6fbc8ed337a7423c98f2c9012b25f20444de09
-  react-native-keep-awake: 0de4bd66de0c23178107dce0c2fcc3354b2a8e94
-  react-native-netinfo: a91b5cf92ed3ada997cfe2bf067633386eb19fd8
-  react-native-webrtc: 28301467c01345183429951641cabba8625826fe
-  react-native-webview: ad9581723f4d401c22cb3a371811d4dc9310df56
-  React-RCTActionSheet: 49433f6e3659ba5d3ee650e44b9c18743ef9a7fc
-  React-RCTAnimation: 12f86a4e3542032329366b03bca2cc254a7c64a9
-  React-RCTBlob: ba90a4144ad478a022b79a4e8a1f150548d39425
-  React-RCTImage: f652d97e49f4b0f26c7df336e723a0d259179967
-  React-RCTLinking: e738422857085a1c40c57505a25920160d365783
-  React-RCTNetwork: d0d635ad07deed0c05a1b1499d1ab4ce5c41ac97
-  React-RCTSettings: ae6f8b64ee5c5e4fc629f5109042e122fd0fd14b
-  React-RCTText: 3f24042210886ee8c02613758013010be04b291e
-  React-RCTVibration: d55e1365be416980217914fe009e9d55dec02e03
-  ReactCommon: eb96b70a2a5bed775e919151fd77699fed52944c
-  RNCAsyncStorage: 6ae5aba8a41bfe0a9f21885ec91faf23ca3fe7ee
-  RNGoogleSignin: ba310637094912a035b28de70adbf03a6c78d7d4
-  RNSound: 53c06172b3e470011825612a95da302e1913ee72
-  RNSVG: 2e097b92aaa6d4e0f354fd7c49cbf3b17f8b3920
-  RNWatch: 394c44f35352309ab414daaadfa3c55a4a5224ee
-  Yoga: 6af72bedeaea291a3a3717772d6d41836f23a1b9
+  RCTRequired: f63dd90a89a60602acdd44c42e5d2645ca60ab79
+  RCTTypeSafety: 24a3c6d55684046ed550b1d0ef083a9bf71c8bd4
+  React: 71c5a51135f291c3b32c0b558e167b858ae50e84
+  React-Core: e82c03ff91062abf963f35bf99a357154e570285
+  React-CoreModules: e236aeecd18cec37743c8c50562431db5302f668
+  React-cxxreact: 526ec106aa1bf2b3f6aab2a7d528d1d23d5f59c2
+  React-jsi: 4f35c1a2273d193a80c1c3831c808413840c260c
+  React-jsiexecutor: de1c37cf59ae9adcbf2be82eea0e090dc3f3205e
+  React-jsinspector: b76c4e84a7833bb4c90549d59ed53ec299ff912b
+  react-native-background-timer: 0d34748e53a972507c66963490c775321a88f6f2
+  react-native-calendar-events: 2fe35a9294af05de0ed819d3a1b5dac048d2c010
+  react-native-keep-awake: eba3137546b10003361b37c761f6c429b59814ae
+  react-native-netinfo: 8d8db463bcc5db66a8ac5c48a7d86beb3b92f61a
+  react-native-webrtc: 86d841823e66d68cc1f86712db1c2956056bf0c2
+  react-native-webview: 4dbc1d2a4a6b9c5e9e723c62651917aa2b5e579e
+  React-RCTActionSheet: b72ddbfbe15b44ce691d128e4b582f4bb9abb540
+  React-RCTAnimation: cfaefba5024499d336b76ab850e6bd33b232b5e3
+  React-RCTBlob: c427e643bef82999deeab97489ba43298ecfbe24
+  React-RCTImage: 79934bc96f3349da6a75b1d61cad594a932e4097
+  React-RCTLinking: 12b153399567c30efac0b32bb00f9c064587dc26
+  React-RCTNetwork: 603ad75778a54521b7797fd07c67dff562317526
+  React-RCTSettings: 8d45fcf14513582539ea1ddea69391207de7f046
+  React-RCTText: b4c29897c3df0c9f112e29aa3167fa6caf40b690
+  React-RCTVibration: a1bcfcdc0b5a73a1b0829a34cee22bd0e95bacba
+  ReactCommon: 675681aba4fecff5acbc0e440530cc422103c610
+  RNCAsyncStorage: 8e31405a9f12fbf42c2bb330e4560bfd79c18323
+  RNGoogleSignin: 39336070b35fc4cea6a98cf111e00480317be0ae
+  RNSound: c980916b596cc15c8dcd2f6ecd3b13c4881dbe20
+  RNSVG: aac12785382e8fd4f28d072fe640612e34914631
+  RNWatch: 09738b339eceb66e4d80a2371633ca5fb380fa42
+  Yoga: 7b4209fda2441f99d54dd6cf4c82b094409bb68f
 
-PODFILE CHECKSUM: d74dec001d927e5654557599b5769ba8d7daf665
+PODFILE CHECKSUM: 90c6f13116290a7966adaa45181103bb53dbe295
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.9.1
