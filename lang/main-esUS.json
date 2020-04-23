@@ -748,7 +748,7 @@
         "recentListEmpty": "Tu lista de recientes está actualmente vacía. Chatea con tu equipo y encontrarás todas tus reuniones aquí.",
         "reducedUIText": "¡Bienvenido(a) a {{app}}!",
         "roomname": "Introduce un nombre de sala",
-        "roomnameHint": "Introduce el nombre o URL de la sala a la que quieres unirte. Puedes crear un nombre nuevo, sólo tienes que hacer llegar este nombre al resto de participantes para que puedan unirse a esta sala.",
+        "roomnameHint": "Escribe el nombre de la sala que quieres crear o a la que quieres unirte. Crea una sala con el nombre que quieras, solo tienes que compartirla con el resto para que puedan unirse.",
         "sendFeedback": "Enviar comentarios",
         "terms": "Términos",
         "title": "Videoconferencias seguras, llenas de funcionalidades y completamente gratuitas"
