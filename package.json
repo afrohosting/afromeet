@@ -142,7 +142,8 @@
     "postinstall": "jetify",
     "validate": "npm ls",
     "start": "npx react-native start",
-    "android": "npx react-native run-android"
+    "android": "npx react-native run-android",
+    "commit": "git commit --no-verify"
   },
   "pre-commit": [
     "lint"
