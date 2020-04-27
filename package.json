@@ -143,7 +143,8 @@
     "validate": "npm ls",
     "start": "npx react-native start",
     "android": "npx react-native run-android",
-    "commit": "git commit --no-verify"
+    "commit": "git commit --no-verify",
+    "build:android": "cd android && ./gradlew installRelease && ./gradlew bundleRelease && cd .."
   },
   "pre-commit": [
     "lint"
