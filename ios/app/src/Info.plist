@@ -25,6 +25,8 @@
 		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Viewer</string>
+			<key>CFBundleURLIconFile</key>
+			<string></string>
 			<key>CFBundleURLName</key>
 			<string>org.jitsi.meet</string>
 			<key>CFBundleURLSchemes</key>
@@ -40,6 +42,16 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.googleusercontent.apps.your-id-here</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>cl.afro.meet</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>cl.afro.meet</string>
 			</array>
 		</dict>
 	</array>

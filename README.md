@@ -4,7 +4,17 @@ Afro Meet is an open-source (Apache) WebRTC JavaScript application that uses [Ji
 
 The Afro Meet client runs in your browser, without installing anything else on your computer. You can try it out at https://afromeet.cl
 
-Afro Meet allows very efficient collaboration. Users can stream their desktop or only some windows. It also supports shared document editing with Etherpad.
+Afro Meet allows very efficient collaboration. Users can stream their desktop or only some windows.
+
+### Mobile apps
+
+* [Android](https://play.google.com/store/apps/details?id=cl.afro.meet)
+
+[<img src="resources/img/google-play-badge.png" height="50">](https://play.google.com/store/apps/details?id=cl.afro.meet)
+
+* [iOS](https://itunes.apple.com/cl/app/afromeetios/id1509073357)
+
+[<img src="resources/img/appstore-badge.png" height="50">](https://itunes.apple.com/cl/app/afromeetios/id1509073357)
 
 ## Security
 
